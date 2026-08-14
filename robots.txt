@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-sta45k.koi888.sbs/sitemap.xml
